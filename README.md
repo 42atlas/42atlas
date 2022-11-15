@@ -85,7 +85,7 @@ I'm currently following various projects as a freelancer and am open to taking o
 
 <br/>  
 
-
+<h2 align="center"> Stats  </h2>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=42atlas&count_private=true&theme=github_dark&showicons=true" align="center" />
