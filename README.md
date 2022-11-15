@@ -1,4 +1,4 @@
-### <div align="center">I'm Andrea, a full-stack developer 🖥️</div>  
+### <div align="center">I'm Andrea, full-stack developer 🖥️</div>  
   
 
 Very creative. Coding is my form of art.
