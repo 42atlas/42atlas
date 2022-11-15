@@ -3,7 +3,7 @@
 
 Very creative. Coding is my form of art.
 
-I'm currently following various projects as a freelancer and am open to taking on new projects.  
+I'm currently following various projects as a freelancer and am open to taking on new tasks.  
   
 
 - I’m currently learning Three.js and AWS  
