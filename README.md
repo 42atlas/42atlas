@@ -1,4 +1,4 @@
-### <div align="center">I'm Andrea, full-stack developer 🖥️</div>  
+<h1 align="center">I'm Andrea, full-stack developer 🖥️</h1>
   
 
 Very creative. Coding is my form of art.
@@ -22,7 +22,7 @@ I'm currently following various projects as a freelancer and am open to taking o
 
 
 
-### Connect with me  
+<h2 align="center"> Connect with me  </h2>
 <div align="center">
 <a href="https://linkedin.com/in/a-raffaelli" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -34,7 +34,7 @@ I'm currently following various projects as a freelancer and am open to taking o
 
 
 
-### Frontend  
+<h2 align="center"> Frontend  </h2>
 <div align="center">  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -53,7 +53,7 @@ I'm currently following various projects as a freelancer and am open to taking o
 
 
 
-### Back-end  
+<h2 align="center"> Back-end  </h2>
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
@@ -61,7 +61,7 @@ I'm currently following various projects as a freelancer and am open to taking o
 
 
 
-### Databases  
+<h2 align="center"> Databases  </h2>
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
@@ -71,7 +71,7 @@ I'm currently following various projects as a freelancer and am open to taking o
 
 
 
-### Additional tools  
+<h2 align="center"> Additional tools  </h2>
 <div align="center">  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
