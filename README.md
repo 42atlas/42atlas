@@ -101,3 +101,8 @@ I'm currently following various projects as a freelancer and am open to taking o
 
 
 <br />
+<style>
+th, td {
+  border-style: none;
+}
+</style>
