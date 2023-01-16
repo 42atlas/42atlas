@@ -3,20 +3,7 @@
 
 Very creative. Coding is my form of art.
 
-I'm currently following various projects as a freelancer and am open to taking on new tasks.  
-  
-
-- Learning Three.js and AWS
-  
-
-- Next.js, React, MERN 
-  
-
-- Interactive Design 
-
-
-- I do pixel art and games
-  
+I'm currently following various projects as a freelancer and am open to taking on new tasks.   
 
 <br/>  
 
