@@ -75,11 +75,11 @@ I'm currently following various projects as a freelancer and am open to taking o
 <h2 align="center"> Stats  </h2>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=42atlas&count_private=true&theme=github_dark&showicons=true" align="center" />
+//<img src="https://github-readme-stats.vercel.app/api?username=42atlas&count_private=true&theme=github_dark&showicons=true" align="center" />
  </div><br/> <div align="center">
 <img src="https://streak-stats.demolab.com?user=42atlas&theme=github-dark-blue" align="center" />
 </div><br/><div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42atlas&langs_count=8&theme=github_dark" align="center" />
+//<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42atlas&langs_count=8&theme=github_dark" align="center" />
 </div>
 
 <br />
