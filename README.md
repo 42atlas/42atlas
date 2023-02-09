@@ -1,9 +1,7 @@
 <h1 align="center">I'm Andrea, full-stack developer 🖥️</h1>
   
 
-Very creative. Coding is my form of art.
-
-I'm currently following various projects as a freelancer and am open to taking on new tasks.   
+Making UI effects, animations and creative dynamic user experiences. Self-driven with a strong understanding of the design process and how to create an eye catching interface. Currently working as a freelancer, actively seeking new and innovative projects. 
 
 <br/>  
 
