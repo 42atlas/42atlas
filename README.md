@@ -78,7 +78,7 @@ Making UI effects, animations and creative dynamic user experiences. Self-driven
 <img src="https://streak-stats.demolab.com?user=42atlas&theme=github-dark-blue" align="center" />
 </div><br/><div align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42atlas&langs_count=8&theme=github_dark" align="center" /> -->
-<img src="https://github-profile-trophy.vercel.app/?username=42atlas&column=7&theme=nord" align="center" />
+<img src="https://github-profile-trophy.vercel.app/?username=42atlas&column=6&theme=nord" align="center" />
 </div>
 
 <br />
